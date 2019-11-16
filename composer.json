@@ -1,6 +1,14 @@
 {
     "name": "omatech/fire-and-forget",
     "description": "Send a post request with parameters async and without wait for a response",
+    "license": "MIT",
+    "authors":[
+        {
+            "name":"Agusti Pons",
+            "email":"apons@omatech.com",
+            "role":"CTO"
+        }
+    ],
 
     "autoload": {
         "classmap": [
